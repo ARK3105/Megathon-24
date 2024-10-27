@@ -1,6 +1,6 @@
 
 # Sentence Classifier
-
+# Team Name: <b> Hack Attack </b>
 ## Overview
 This project implements a sentence classification system using Streamlit and machine learning embeddings. The application allows users to input sentences and classify them into categories, intensities, and polarities based on pre-defined clusters of sentence embeddings.
 
